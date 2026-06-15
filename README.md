@@ -57,5 +57,5 @@ Marcus Williams noted that this should be a standalone proof of concept without 
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ayyywhyyy/alcohol-label-verifier
 cd alcohol-label-verifier
